@@ -1,0 +1,61 @@
+{
+  "default": "1.21.8",
+  "userMods": {
+    "enabled": true,
+    "blocked": []
+  },
+  "versions": {
+    "1.21.10": {
+      "managedDirs": [
+        "mods"
+      ],
+      "files": [
+        {
+          "path": "mods/fabric-api-0.138.4+1.21.10.jar",
+          "url": "1.21.10/mods/fabric-api-0.138.4%2B1.21.10.jar",
+          "sha1": "0345c20b71007521a25b393091adeb45328d7c57",
+          "size": 2375888
+        }
+      ]
+    },
+    "1.21.11": {
+      "managedDirs": [
+        "mods"
+      ],
+      "files": [
+        {
+          "path": "mods/fabric-api-0.141.6+1.21.11.jar",
+          "url": "1.21.11/mods/fabric-api-0.141.6%2B1.21.11.jar",
+          "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
+          "size": 2426039
+        }
+      ]
+    },
+    "1.21.8": {
+      "managedDirs": [
+        "mods"
+      ],
+      "files": [
+        {
+          "path": "mods/fabric-api-0.136.1+1.21.8.jar",
+          "url": "1.21.8/mods/fabric-api-0.136.1%2B1.21.8.jar",
+          "sha1": "56a377bdbf4d83a90d6863ca91b4776f7f09a46b",
+          "size": 2269700
+        }
+      ]
+    },
+    "1.21.9": {
+      "managedDirs": [
+        "mods"
+      ],
+      "files": [
+        {
+          "path": "mods/fabric-api-0.134.1+1.21.9.jar",
+          "url": "1.21.9/mods/fabric-api-0.134.1%2B1.21.9.jar",
+          "sha1": "c1ccbf0f5d3aca7d86963677da71e700498c3c9b",
+          "size": 2290371
+        }
+      ]
+    }
+  }
+}
