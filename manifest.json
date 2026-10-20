@@ -15,6 +15,12 @@
           "url": "1.21.10/mods/fabric-api-0.138.4%2B1.21.10.jar",
           "sha1": "0345c20b71007521a25b393091adeb45328d7c57",
           "size": 2375888
+        },
+        {
+          "path": "mods/voicechat-fabric-1.21.10-2.6.22.jar",
+          "url": "1.21.10/mods/voicechat-fabric-1.21.10-2.6.22.jar",
+          "sha1": "45645b70dc3d88067655faedb1cf4e8a2c788523",
+          "size": 5529164
         }
       ]
     },
@@ -28,6 +34,12 @@
           "url": "1.21.11/mods/fabric-api-0.141.6%2B1.21.11.jar",
           "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
           "size": 2426039
+        },
+        {
+          "path": "mods/voicechat-fabric-1.21.11-2.6.22.jar",
+          "url": "1.21.11/mods/voicechat-fabric-1.21.11-2.6.22.jar",
+          "sha1": "d607bc579bb5e0488a539ed87e62e91f10d38376",
+          "size": 5591115
         }
       ]
     },
@@ -41,6 +53,12 @@
           "url": "1.21.8/mods/fabric-api-0.136.1%2B1.21.8.jar",
           "sha1": "56a377bdbf4d83a90d6863ca91b4776f7f09a46b",
           "size": 2269700
+        },
+        {
+          "path": "mods/voicechat-fabric-1.21.8-2.6.22.jar",
+          "url": "1.21.8/mods/voicechat-fabric-1.21.8-2.6.22.jar",
+          "sha1": "3d90ebf263aa9288f7be02b1828a074786513a14",
+          "size": 5489589
         }
       ]
     },
@@ -54,6 +72,12 @@
           "url": "1.21.9/mods/fabric-api-0.134.1%2B1.21.9.jar",
           "sha1": "c1ccbf0f5d3aca7d86963677da71e700498c3c9b",
           "size": 2290371
+        },
+        {
+          "path": "mods/voicechat-fabric-1.21.9-2.6.4.jar",
+          "url": "1.21.9/mods/voicechat-fabric-1.21.9-2.6.4.jar",
+          "sha1": "87e78957bfc1ed4926b68abeefbd8f224dbcbe6e",
+          "size": 5499137
         }
       ]
     }
